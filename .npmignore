@@ -1,0 +1,6 @@
+node_modules
+mock
+src
+.eslintignore
+index.html
+vite.config.ts
