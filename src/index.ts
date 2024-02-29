@@ -1,7 +1,5 @@
-import DdpRangePicker from "./ddpRangePicker";
-import DdpDatePicker from "./antdTagInput";
+import AntdTagInpuy from "./antdTagInput";
 
 export default {
-  DdpRangePicker,
-  DdpDatePicker,
+  AntdTagInpuy,
 };
