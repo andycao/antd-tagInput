@@ -446,6 +446,18 @@ ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
+antd-tags-input@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmmirror.com/antd-tags-input/-/antd-tags-input-0.0.1.tgz#07e6b280aeafe4e880647ef582cbdcf402973dd7"
+  integrity sha512-fungJUaNRURgcQO3Bbcc5U6ngYZijhz1ChnPI55VnA51AIZOha/j9Xum9uPGCyrt58uQMrcQ+4uQd7pkp+kBvg==
+
+antd-tags-input@^0.0.2:
+  version "0.0.2"
+  resolved "https://r.cnpmjs.org/antd-tags-input/-/antd-tags-input-0.0.2.tgz#b20913ec84aded814a455430d346c95ef5b61390"
+  integrity sha512-GD/efiC6cjBmEDdAfeU3W0IkkvZL4aMzHdQqprSEIXm5HY7zqgDkliSLEgHAkO2SljlCYZ/VrUQiBNCqZXCELA==
+  dependencies:
+    antd-tags-input "^0.0.1"
+
 antd@^4:
   version "4.24.13"
   resolved "http://artifactory.intra.xiaojukeji.com/artifactory/api/npm/npm/antd/-/antd-4.24.13.tgz?dl=https%3A%2F%2Fregistry.npmmirror.com%2Fantd%2F-%2Fantd-4.24.13.tgz#a6f376e851f97511b72274f142da8974fc574fbc"

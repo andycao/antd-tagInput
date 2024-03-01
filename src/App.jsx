@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { Form, Input } from "antd";
+import AntdTagsInput from "antd-tags-input";
+
 import TagInput from "./antdTagInput";
 
 import "./App.css";
@@ -20,6 +22,18 @@ function App() {
           ]}
         >
           <TagInput />
+        </Form.Item>
+
+        <Form.Item
+          name="tags2"
+          label="标签输入2"
+          rules={[
+            {
+              required: true,
+            },
+          ]}
+        >
+          <AntdTagsInput />
         </Form.Item>
       </Form>
     </div>
