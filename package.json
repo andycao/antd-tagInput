@@ -1,6 +1,6 @@
 {
-  "name": "antd-tag-input",
-  "version": "0.0.1",
+  "name": "antd-tags-input",
+  "version": "0.0.2",
   "scripts": {
     "start": "yarn dev",
     "dev": "vite",
@@ -23,6 +23,10 @@
     "typescript": "^4.4.4",
     "vite": "^2.7.2",
     "vite-plugin-mock": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andycao/antd-tagInput.git"
   },
   "peerDependencies": {},
   "author": "aa",
